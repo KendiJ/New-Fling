@@ -1,20 +1,11 @@
-//
-//  ContentView.swift
-//  Landmarks
-//
-//  Created by Kendi J on 06/02/2024.
-//
-
 import SwiftUI
+
+
 
 struct ContentView: View {
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
-        }
+            Text("Hello Self\n New Fling?")
+        Text("Woza Woza")
         .padding()
     }
 }
